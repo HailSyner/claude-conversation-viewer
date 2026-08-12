@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/SsssssSynqa/claude-conversation-viewer#readme",
   "devDependencies": {
-    "vite": "^8.0.1",
+    "vite": "^8.2.1",
     "vite-plugin-singlefile": "^2.3.2"
   },
   "dependencies": {
-    "dompurify": "^3.3.3",
+    "dompurify": "^3.4.13",
     "highlight.js": "^11.11.1",
     "html2canvas": "^1.4.1",
     "jszip": "^3.10.1",
